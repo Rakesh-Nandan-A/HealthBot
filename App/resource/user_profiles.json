@@ -1,0 +1,46 @@
+{
+    "Rakhi": {
+        "name": "Rakhi",
+        "body_type": "normal",
+        "diet": "mixed",
+        "goal": "muscle gain",
+        "weight": 75,
+        "height": 178,
+        "age": 26,
+        "gender": "male",
+        "bmi": 23.7
+    },
+    "Nandan": {
+        "name": "Nandan",
+        "body_type": "normal",
+        "diet": "clean",
+        "goal": "muscle gain",
+        "weight": 30,
+        "height": 120,
+        "age": 10,
+        "gender": "male",
+        "bmi": 20.8
+    },
+    "Deepu": {
+        "name": "Sandeep Deepu",
+        "body_type": "normal",
+        "diet": "mixed",
+        "goal": "fat loss",
+        "weight": 76,
+        "height": 176,
+        "age": 25,
+        "gender": "male",
+        "bmi": 24.5
+    },
+    "Kousalya": {
+        "name": "kousalya Kethavath",
+        "body_type": "normal",
+        "diet": "mixed",
+        "goal": "fat loss",
+        "weight": 58,
+        "height": 155,
+        "age": 26,
+        "gender": "female",
+        "bmi": 24.1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "null": {
+        "email": null,
+        "name": "",
+        "password": null
+    },
+    "Rakhi": {
+        "email": "r.joyboy@gmail.com",
+        "name": "Rakesh Nandan Anantharam",
+        "password": "Rakhi123@"
+    },
+    "Deepu": {
+        "email": "r.test@gmail.com",
+        "name": "Sandeep Deepu",
+        "password": "Rakhi123@"
+    },
+    "Kousalya": {
+        "email": "test@gmail.com",
+        "name": "kousalya Kethavath",
+        "password": "12061998"
+    }
+}
